@@ -1,8 +1,10 @@
 Tensorflow Object Detection (TFOD) using SSD !
 
-TensorFlow object detection API is the framework for creating a deep learning network that solves object detection problems. There are already pretrained models in their framework which they refer to as Model Zoo.
+TensorFlow object detection API is the framework for creating a deep learning network that solves object detection problems. There are already pretrained models in their framework  called Model Zoo.
 
 Installation Document:: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+
+Tensorflow 2 Object Detection Model Zoo::https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 
 ![Screenshot (158)](https://user-images.githubusercontent.com/86067050/155890554-2c49c668-70ca-4119-999f-34ea9ae89062.png)
 ![Screenshot (159)](https://user-images.githubusercontent.com/86067050/155890565-68e5b20e-8acd-48f2-be74-4f08c020778b.png)
